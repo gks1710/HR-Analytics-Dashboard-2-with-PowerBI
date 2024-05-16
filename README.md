@@ -1,4 +1,4 @@
-# 👥 *HR Analytics Dashboard with PowerBI*
+# 👥 *HR Analytics Dashboard 2 with PowerBI*
 
 ℹ️ Explore this dynamic HR analytics dashboard built with PowerBI, providing a holistic view of workforce metrics and trends. From tracking total employee count to analyzing attrition rates and salary trends, this project offers valuable insights to HR professionals and business leaders.
 
